@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\my_notepad",
+    "\\my_notepad\\my_notepad"
   ],
-  "SelectedNode": "\\E:\\visual cods\\c#\\hm2",
+  "SelectedNode": "\\my_notepad\\my_notepad\\Form1.cs",
   "PreviewInSolutionExplorer": false
 }

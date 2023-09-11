@@ -21,5 +21,10 @@ namespace my_notepad
         {
             Close();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
