@@ -1,0 +1,11 @@
+E:\visual cods\c#\hm2\my_notepad\my_notepad\bin\Debug\my_notepad.exe.config
+E:\visual cods\c#\hm2\my_notepad\my_notepad\bin\Debug\my_notepad.exe
+E:\visual cods\c#\hm2\my_notepad\my_notepad\bin\Debug\my_notepad.pdb
+E:\visual cods\c#\hm2\my_notepad\my_notepad\obj\Debug\my_notepad.csproj.AssemblyReference.cache
+E:\visual cods\c#\hm2\my_notepad\my_notepad\obj\Debug\my_notepad.csproj.SuggestedBindingRedirects.cache
+E:\visual cods\c#\hm2\my_notepad\my_notepad\obj\Debug\my_notepad.Form1.resources
+E:\visual cods\c#\hm2\my_notepad\my_notepad\obj\Debug\my_notepad.Properties.Resources.resources
+E:\visual cods\c#\hm2\my_notepad\my_notepad\obj\Debug\my_notepad.csproj.GenerateResource.cache
+E:\visual cods\c#\hm2\my_notepad\my_notepad\obj\Debug\my_notepad.csproj.CoreCompileInputs.cache
+E:\visual cods\c#\hm2\my_notepad\my_notepad\obj\Debug\my_notepad.exe
+E:\visual cods\c#\hm2\my_notepad\my_notepad\obj\Debug\my_notepad.pdb
